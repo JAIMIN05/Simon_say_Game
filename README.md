@@ -10,8 +10,13 @@ Keep track of your best performances and challenge yourself to beat your own rec
 
 ## Instructions:
 
-Start: Press any Key to begin the game.
-Watch: Pay close attention to the sequence of colors displayed by Simon.
-Repeat: Click on the colors in the same order as Simon to replicate the sequence.
-Advance: As you progress, the sequences will become longer and more challenging.
-Win: Keep playing to achieve the highest score possible!
+#### Start: 
+Press any Key to begin the game.
+#### Watch:
+Pay close attention to the sequence of colors displayed by Simon.
+#### Repeat: 
+Click on the colors in the same order as Simon to replicate the sequence.
+#### Advance: 
+As you progress, the sequences will become longer and more challenging.
+#### Win: 
+Keep playing to achieve the highest score possible!
