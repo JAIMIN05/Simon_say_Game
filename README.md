@@ -20,3 +20,7 @@ Click on the colors in the same order as Simon to replicate the sequence.
 As you progress, the sequences will become longer and more challenging.
 #### Win: 
 Keep playing to achieve the highest score possible!
+
+
+https://github.com/JAIMIN05/Simon_say_Game/assets/115476522/c0eb6d48-5fb2-4766-b8fa-cdface53c138
+
